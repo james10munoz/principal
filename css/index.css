@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(48, 153, 185);
+    background-repeat: no-repeat;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    -ms-hyphens: auto;
+}
