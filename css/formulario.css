@@ -1,0 +1,12 @@
+* {
+    font-family: Tahoma, sans-serif;
+}
+form {
+    border: 1 px ;
+}
+label {
+    display: block;
+}
+input [type="text"]{
+    display: block;
+}
