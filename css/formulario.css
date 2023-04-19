@@ -1,8 +1,28 @@
 * {
     font-family: Tahoma, sans-serif;
 }
+.main-box {
+    display: flex;
+    justify-content: center;
+}
+.content-box {
+    width: 600px;
+    border: 1 px solid rgb(240, 0, 0);
+    margin-top: 80px;
+}
 form {
-    border: 1 px ;
+    width: 100%;
+    padding: 20px 40px;
+}
+.form-title {
+    height: 80px;
+    color: white;
+    background-color: rgb(240, 0, 0);
+    margin-top: 0;
+    font-size: 1.7em;
+    text-align: center;
+    line-height: 60px;
+    font-weight: 900;
 }
 label {
     display: block;
