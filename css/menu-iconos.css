@@ -7,12 +7,14 @@
 .main-menu {
     padding: 25px;
     width: 200px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
 }
-body {
-}
+
 .fa {
     padding-top: 30px;
 }
  i {
     padding-right: 15px;
  }
+
