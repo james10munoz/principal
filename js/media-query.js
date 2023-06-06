@@ -7,7 +7,6 @@ hamburguerMenu.addEventListener("click", function(){
         mainMenu.classList.remove("main-menu");
     }
     else{
-
     mainMenu.classList.remove("main-menu-block");
     mainMenu.classList.add("main-menu");
 }
